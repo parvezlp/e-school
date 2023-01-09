@@ -1,0 +1,46 @@
+.container{
+    padding-bottom: 50px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.bg-custom{
+    background-color: #f0fff0;
+}
+.btn-sing{
+    border-radius: 50px;
+    padding: 5px 20px;
+}
+.carousel-item .row{
+    padding: 0 20px;
+}
+.carousel-item .row h6{
+    padding: 10px;
+}
+.categories{
+    margin-top: 50px;
+}
+.categories .text-center{
+    border: none;    
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+    padding: 40px 0;
+    background-color: #f0fff0;
+}
+.categories .text-center:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.categories img{
+    width: 50px;
+    height: 60px;
+}
+.img-box{
+    padding: 15px;
+}
+.line-space{
+    margin-bottom: 30px;
+}
+.testimonial{
+    padding: 50px 100px;
+}
